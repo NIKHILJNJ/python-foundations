@@ -1,0 +1,30 @@
+# Python Basics — Modules, Comments & Pip
+
+Modules
+A module is a file containing code written by somebody else which can be imported and used in our
+programs.
+
+Pip
+Pip is the package manager for Python. You can use pip to install external modules on your system.
+
+Comments
+Comments are used to write something which the programmer does not want to execute. They can be
+used to explain code, mark author names, dates, or add notes.
+
+Types of Comments
+
+There are two types of comments in Python.
+Single Line Comments
+
+To write a single line comment, add a # symbol at the start of the line.
+# This is a Single-Line Comment
+
+Multiline Comments
+
+To write multiline comments, you can use triple quotes.
+"""
+This is an amazing
+example of a Multiline
+comment!
+"""
+
