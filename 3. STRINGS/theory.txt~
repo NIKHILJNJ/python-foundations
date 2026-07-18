@@ -1,0 +1,88 @@
+## 🔍 What is a String?
+
+A **String** is a data type in Python that represents a sequence of characters. It must be enclosed in quotes. Python provides three primary ways to define a string:
+
+```python
+a = 'nikhil'    # Single quoted string
+b = "nikhil"    # Double quoted string
+c = '''nikhil'''  # Triple quoted string (useful for multi-line strings)
+
+
+## ✂️ String Slicing
+
+String slicing allows you to extract a specific part (a substring) of a string.
+
+* **Indexing:** In Python, string indices start at `0` and go up to `length - 1`.
+* **Negative Indexing:** You can also count backwards from the end of the string, starting at `-1`.
+
+### Basic Slicing Syntax
+
+```python
+# Syntax: word[start_index : end_index]
+# Note: The end_index is exclusive (not included in the result).
+
+word = "amazing"
+print(word[0:3]) # Output: ama
+
+
+
+### Advanced Slicing & Skip Values
+
+You can pass a third argument to your slice to **skip** characters.
+
+```python
+# Syntax: word[start : end : skip_value]
+word = "amazing"
+
+# Slicing with a skip value
+print(word[1:6:2]) # Output: mzn (takes index 1, skips 1, takes 3, skips 1, takes 5)
+
+# Negative slicing
+print(word[-7:-1]) # Output: amazin
+
+# Omit start or end index (Python fills in the rest)
+print(word[:7])    # Output: amazing (starts from 0)
+print(word[0:])    # Output: amazing (goes until the very end)
+
+
+## 🛠️ Built-in String Functions
+
+Python includes several powerful built-in methods to manipulate and query strings. Here are some of the most commonly used ones:
+
+| Function | Description | Example | Output |
+| --- | --- | --- | --- |
+| `len(str)` | Returns the total length of the string. | `len("nikhil")` | `6` |
+
+| `str.endswith(sub)` | Checks if the string ends with the specified substring. | `"nikhil".endswith("hil")` | `True` |
+
+| `str.count(char)` | Counts the total occurrences of a specific character/substring. | `"nikhil".count("i")` | `2` |
+
+| `str.capitalize()` | Capitalizes the very first character of the string. | `"nikhil".capitalize()` | `"Nikhil"` |
+
+| `str.find(sub)` | Returns the index of the **first** occurrence of a substring. Returns `-1` if not found. | `"nikhil".find("kh")` | `2` |
+
+| `str.replace(old, new)` | Replaces all occurrences of the old word/character with the new one. | `"nikhil".replace("i", "o")` | `"nokhol"` |
+
+> 💡 **Note:** Strings in Python are *immutable*, meaning these functions do not change the original string. Instead, they return a brand new string.
+
+
+
+## 🚪 Escape Sequence Characters
+
+Escape sequences are special characters preceded by a backslash (`\`). They are used to insert characters that are otherwise difficult or impossible to type directly into a string.
+
+* `\n` : Newline (breaks the text into a new line)
+* `\t` : Tab (adds a horizontal space)
+* `\'` : Single Quote
+* `\"` : Double Quote
+* `\\` : Backslash
+
+### Example:
+
+```python
+story = "Nikhil is a good boy.\nHe\tloves programming."
+print(story)
+# Output:
+# Nikhil is a good boy.
+# He      loves programming.
+
