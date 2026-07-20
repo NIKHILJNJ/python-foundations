@@ -1,0 +1,1 @@
+If the same name is entered more than once, the dictionary will only keep the last language entered for that name, since dict keys must be unique.
