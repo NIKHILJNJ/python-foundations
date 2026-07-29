@@ -1,0 +1,110 @@
+# Chapter 08 – Functions & Recursion
+
+A beginner-friendly guide to functions and recursion in Python.
+
+## 📖 Overview
+
+A **function** is a group of statements that performs a specific task. As programs grow in size and complexity, it becomes hard to keep track of which piece of code does what — functions solve this by letting you package logic into reusable, named blocks.
+
+Key benefits:
+- **Reusability** — a function can be called any number of times, anywhere in the program.
+- **Organization** — breaking a big program into smaller, well-named pieces makes it easier to read and maintain.
+
+## 🔤 Function Basics
+
+### Syntax
+
+```python
+def func1():
+    print('hello')
+```
+
+### Function Call
+
+To run a function, write its name followed by parentheses:
+
+```python
+func1()  # This is called a function call
+```
+
+### Function Definition
+
+The function definition is the block containing the exact set of instructions that run when the function is called.
+
+### Quick Quiz
+> Write a program to greet a user with "Good day" using functions.
+
+```python
+def greet_user():
+    print("Good day!")
+
+greet_user()
+```
+
+## 🧩 Types of Functions in Python
+
+Python has two types of functions:
+
+| Type | Description | Examples |
+|------|-------------|----------|
+| Built-in functions | Already provided by Python | `len()`, `print()`, `range()` |
+| User-defined functions | Written by the programmer | `func1()`, `greet()` |
+
+## 📥 Functions With Arguments
+
+Functions can accept values (arguments) to work with, and can also return a value:
+
+```python
+def greet(name):
+    gr = "hello " + name
+    return gr
+
+a = greet("Nikhil")
+# a now contains "hello Nikhil"
+```
+
+### Default Parameter Values
+
+A parameter can be given a default value, which is used automatically when no argument is passed:
+
+```python
+def greet(name="stranger"):
+    print("hello " + name)
+
+greet()         # name = "stranger" (default used)
+greet("Nikhil") # name = "Nikhil" (passed value used)
+```
+
+## 🔁 Recursion
+
+**Recursion** occurs when a function calls itself. It's especially useful when a problem can be expressed directly as a mathematical formula.
+
+For example, factorial can be defined as:
+
+```
+factorial(n) = n × factorial(n - 1)
+```
+
+In Python:
+
+```python
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+```
+
+> ⚠️ **Be careful with recursion!** Every recursive function needs a **base case** (a condition that stops the recursion) — otherwise it will keep calling itself infinitely and crash the program.
+
+Recursion is sometimes the most direct and elegant way to implement an algorithm, especially for problems that are naturally defined in terms of smaller versions of themselves (factorials, Fibonacci numbers, tree traversals, etc.).
+
+## ✅ Summary
+
+- Functions group statements to perform a task and can be reused.
+- Functions can take arguments and return values.
+- Parameters can have default values.
+- Recursion is a function calling itself, useful for formula-based problems — always include a base case to avoid infinite recursion.
+
+---
+*Based on Python Programming Handbook — Chapter 08: Functions & Recursions*
