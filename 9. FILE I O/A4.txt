@@ -1,0 +1,116 @@
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+
+Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since 1966 is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.Source text
+Now is the winter of our discontent
+Made glorious summer by this sun of York;
+And all the clouds that lour'd upon our house
+In the deep bosom of the ocean buried.
+Now are our brows bound with victorious wreaths;
+Our bruised arms hung up for monuments;
+Our stern alarums changed to merry meetings,
+Our dreadful marches to delightful measures.
+Grim-visaged war hath smooth'd his wrinkled front;
+And now, instead of mounting barded steeds
+To fright the souls of fearful adversaries,
+He capers nimbly in a lady's chamber
+To the lascivious pleasing of a lute.
+But I, that am not shaped for sportive tricks,
+Nor made to court an amorous looking-glass;
+I, that am rudely stamp'd, and want love's majesty
+To strut before a wanton ambling nymph;
+I, that am curtail'd of this fair proportion,
+There are 837 chars in the text.
+5 order random text.
+s looking-glass;
+But I, that am not shaped for made to delight the lascivious looking-glass;
+To strut before a wanton ambling of a lady's changed to merry meeting barded steeds
+I, that am rudely stamp'd, and wanton amorous pleasing nymph;
+Our bruised arms hung up for sportive tricks,
+Grim-visaged to delight the deep bosom of the souls of a lute.
+To frightful measures.
+I, that lour'd upon our bruised arms hung up for sportive tricks,
+He capers nimbly in a lady's chamber
+Now is that am rudely stamp'd, and with victorious summer by this fair proportion,
+To the ocean buried.
+To fright the ocean buried.
+I, that lour'd upon our house
+Nor made to delight the winter of a lute.
+To the ocean buried.
+He capers nimbly in a lute.
+I, that love's majesty
+To the ocean buried.
+Made glorious looking-glass;
+To the souls of fearful measures.
+Nor monuments;
+He capers nimbly in a lute.
+Our steeds
+And now, instead of the lascivious wreaths;
+To strut before a want love's majesty
+And now, instead of York;
+Nor monuments;
+I, that am rudely stamp'd, and with victorious wreaths;
+He capers nimbly in a lute.
+Grim-visaged to delight the winter of York;
+Our discontent
+Our discontent
+Nor monuments;
+Our steeds
+Our steeds
+Nor made to delight the deep bosom of mountings,
+Nor monuments;
+To the deep bosom of York;
+Made glorious pleasing barded steeds
+I, that am rudely stamp'd, and with victorious pleasing barded steeds
+But I, that am not shaped front;
+Our steeds
+I, that am curtail'd of York;
+And all the ocean buried.
+Nor monuments;
+Now is the deep bosom of our bruised arms hung up for made to merry meeting nymph;
+In the souls of a lute.
+And now, instead of mounting barded stern alarums changed to delight the deep bosom of a lute.
+And now, instead of this wreaths;
+Made glorious looking-glass;
+To strut before a want lour'd upon our dreadful measures.
+Our steeds
+To strut before a wanton amorous wrinkled front;
+To strut before a wanton ambling nymph;
+He capers nimbly in a lady's changed want lour'd upon our discontent
+In the winter of this wreaths;
+Our bruised arms hung up for sportion,
+Our steeds
+Our bruised arms hung up for monuments;
+Our steeds
+In the clouds that love's majesty
+But I, that lour'd upon our house
+To the souls of mountings,
+To fright the clouds that am not shaped for monuments;
+Nor made glorious summer by this wreaths;
+I, that lour'd upon our bruised arms hung up for made glorious pleasing barded steeds
+Our bruised arms hung up for made glorious wrinkled for sportion,
+Our stern alarums changed war hath smooth'd his wrinkled for sportive tricks,
+Nor monuments;
+Now is that am rudely stamp'd, and war hath smooth'd his fair proportion,
+I, that am rudely stamp'd, and want lour'd upon our discontent
+I, that am not shaped front;
+And now, instead of this sun of fearful marches to merry meeting barded stern alarums changed to merry meeting barded stern alarums chamber
+Made to delight the winter of our house
+Our dreadful measures.
+To strut before a wanton amorous wreaths;
+Nor monuments;
+Now are our house
+And now, instead of a lute.
+I, that am not shaped front;
+Nor monuments;
+Grim-visaged to merry meeting of our house
+I, that am rudely stamp'd, and war hath smooth'd his wrinkled for sportive tricks,
+Our brows bound wanton amorous wr
+There are 3500 chars in this text.
