@@ -11,7 +11,7 @@ class two_d :
     # The method returns a new object of the same class with the sum of the attributes of the two objects.
     
     def __str__(self):
-        return (f"{self.x},{self.y}")
+        return (f"{self.x}i + {self.y}j")
     # __str__ is a special method that is used to return a string representation of an object.
     
 
@@ -25,7 +25,7 @@ class three_d(two_d):
     def __add__(self, other):
         return three_d(self.x + other.x, self.y + other.y, self.z + other.z) 
     def __str__(self):
-            return (f"{self.x},{self.y},{self.z}")
+            return (f"{self.x}i+ {self.y}j+ {self.z}k")
            
 
 c = int(input("enter 2 for 2- objects and 3 for 3-d objects:"))
