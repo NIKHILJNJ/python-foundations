@@ -1,5 +1,10 @@
-with open("log.txt", "r") as f:
-    content = f.readlines()
+try:
+    with open("log.txt", "r") as f:
+        content = f.readlines()
+except FileNotFoundError:
+    print("File not found.")
+    exit()
+
 # readlines() method reads the entire file and returns a list of lines in the file. Each line is a string in the list.
 found = False
 count = 1
