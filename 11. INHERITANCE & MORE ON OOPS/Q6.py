@@ -17,7 +17,7 @@ class two_d :
 
 
 class three_d(two_d): 
-# inheriting the properties of two_d class
+# inheriting the properties of the two_d class
     def __init__(self, x, y, z):
         super().__init__(x, y)
         self.z = z
@@ -25,7 +25,7 @@ class three_d(two_d):
     def __add__(self, other):
         return three_d(self.x + other.x, self.y + other.y, self.z + other.z) 
     def __str__(self):
-            return (f"{self.x}i+ {self.y}j+ {self.z}k")
+            return f"{self.x}i + {self.y}j + {self.z}k"
            
 
 c = int(input("enter 2 for 2- objects and 3 for 3-d objects:"))
