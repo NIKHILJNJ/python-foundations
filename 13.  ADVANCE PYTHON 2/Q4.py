@@ -6,6 +6,8 @@ for i in range (10):
 def div(s):
     if s%5==0:
         return s
+    else:
+        return False   
 
 
 fl = filter (div,l) 
