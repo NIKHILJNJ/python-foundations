@@ -4,11 +4,11 @@ def sum_number(n) :
    elif n == 1:
         return 1
    else:
-    return n+sum(n-1)
+    return n+sum_number(n-1)
 
 n = int(input("enter a positive number: "))
 
 if (n<0):
-  print ("enter correct input")
+  print ("enter a correct input")
 else:
   print("the sum of first n natural numbers is ", sum_number(n))
