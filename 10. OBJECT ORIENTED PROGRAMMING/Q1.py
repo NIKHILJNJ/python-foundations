@@ -24,7 +24,7 @@ while add_more == "y":
     add_more = input("Do you want to add another programmer? (y/n): ")
 
 print("\n list of programmers: ")
-for p in prog:
+for p in programmers:
     print(f"Programmer Name: {p.name}, Programming Language: {p.language}, Salary: {p.salary}")
 
 
