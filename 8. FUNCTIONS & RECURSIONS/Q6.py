@@ -1,10 +1,12 @@
 def conversion(a,b):
     if b==1:
-        print(round(( a*2.54, "cm")))
+        print(round(a*2.54), "cm")
         return
     else:
-        print(round((a/2.54, "inches")))
+        print(round(a/2.54), "inches")
         return
+# can also write print(round(a/2.54, 2), "inches") if we want to keep 2 decimal places      
+        
 
 print("which type of conversion is needed select 1. For inches to cm  2. For cm to inches ")
 
